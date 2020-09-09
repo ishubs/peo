@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/peo/static/css/main.0dbfc907.chunk.css",
+    "main.js": "/peo/static/js/main.4474e495.chunk.js",
+    "main.js.map": "/peo/static/js/main.4474e495.chunk.js.map",
+    "runtime-main.js": "/peo/static/js/runtime-main.9f9321bc.js",
+    "runtime-main.js.map": "/peo/static/js/runtime-main.9f9321bc.js.map",
+    "static/css/2.4fc0ca7b.chunk.css": "/peo/static/css/2.4fc0ca7b.chunk.css",
+    "static/js/2.6a8ce706.chunk.js": "/peo/static/js/2.6a8ce706.chunk.js",
+    "static/js/2.6a8ce706.chunk.js.map": "/peo/static/js/2.6a8ce706.chunk.js.map",
+    "index.html": "/peo/index.html",
+    "precache-manifest.f9b4fe870ca070f295c09e0baaf7222d.js": "/peo/precache-manifest.f9b4fe870ca070f295c09e0baaf7222d.js",
+    "service-worker.js": "/peo/service-worker.js",
+    "static/css/2.4fc0ca7b.chunk.css.map": "/peo/static/css/2.4fc0ca7b.chunk.css.map",
+    "static/css/main.0dbfc907.chunk.css.map": "/peo/static/css/main.0dbfc907.chunk.css.map",
+    "static/media/Maya-avatar.jpg": "/peo/static/media/Maya-avatar.45e6b951.jpg",
+    "static/media/mdb.css": "/peo/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/peo/static/media/fa-solid-900.ee09ad75.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f9321bc.js",
+    "static/css/2.4fc0ca7b.chunk.css",
+    "static/js/2.6a8ce706.chunk.js",
+    "static/css/main.0dbfc907.chunk.css",
+    "static/js/main.4474e495.chunk.js"
+  ]
+}
